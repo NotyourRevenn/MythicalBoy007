@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MythicalBoy007
+- 👋 Hi, I’m @Revenn
 - 👀 I’m interested in Programming,Website Designing,App Development
-- 🌱 I’m currently learning java and c++
+- 🌱 I’m currently a freelancer 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me my gmail: mondalsubhajit556@gmail.com
 
